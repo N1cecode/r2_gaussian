@@ -15,6 +15,7 @@
 #include <vector>
 #include "voxelizer.h"
 #include <cuda_runtime_api.h>
+#include <cstdint>
 
 
 namespace CudaVoxelizer
